@@ -1,4 +1,4 @@
-Nota del Estudiante
+Nota del Alumno
 Buenas noches,
 
 Quería comentar que esta última parte del curso me costó mucho debido a temas de complejidad, entre otros asuntos personales así como médicos, 
